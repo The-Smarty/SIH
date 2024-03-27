@@ -3,4 +3,4 @@ This Repo is for Smart india hackathon application prototype for the internal ha
 
 Note : This is prepared for the application to participate in the Smart India Hackathon 2024. This is just a prototype for the project.
 
-This project is extended to the college acadamic project. watch the extended repo here(https://github.com/thee-smarty/HydroHitch)
+This project is extended to the college acadamic project. watch the extended repo [here](https://github.com/thee-smarty/HydroHitch)
