@@ -1,5 +1,5 @@
 # SIH Internal Hackathon 
-This Repo is for the prototype for Smart india hackathon internal hackathon in VRSEC. This contains 2 files. Developing file(.aia extension) is used to continue the development of the application,Build file (.apk extension) for building the application in mobile phone.
+The repository is for the prototype for Internal Hackathon for Smart india hackathon in VRSEC. This contains 2 files: Developing file(.aia extension) is used to continue the development of the application,Build file (.apk extension) for building the application in mobile phone.
 
 These files are developed in MIT App inventor Website using blocks. (No code) 
 
