@@ -1,6 +1,9 @@
 # SIH-Internal-Hackathon
-This Repo is for Smart india hackathon application prototype for the internal hackathon. This Repo contains MIT app inventor 2 Application. The file is with .aia extension that is used to continue the development of the application. And a .apk file for mobile download is added to the Repo.
+This Repo is for the prototype for Smart india hackathon internal hackathon in VRSEC. This contains 2 files. Developing file(.aia extension) is used to continue the development of the application,Build file (.apk extension) for building the application in mobile phone.
 
-Note : This is prepared for the application to participate in the Smart India Hackathon 2024. This is just a prototype for the project.
+These files are developed in MIT App inventor Website using blocks. (No code) 
 
-This project is extended to the college acadamic project. watch the extended repo [here](https://github.com/thee-smarty/HydroHitch)
+##Note  
+This is application is prepared for participate in Smart India Hackathon 2024. This is the prototype for the project.
+
+This project is extended to college acadamic project for EPICS community service project.watch the extended repo [here](https://github.com/thee-smarty/HydroHitch)
