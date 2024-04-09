@@ -3,7 +3,7 @@ This Repo is for the prototype for Smart india hackathon internal hackathon in V
 
 These files are developed in MIT App inventor Website using blocks. (No code) 
 
-##Note  
+## Note  
 This is application is prepared for participate in Smart India Hackathon 2024. This is the prototype for the project.
 
 This project is extended to college acadamic project for EPICS community service project.watch the extended repo [here](https://github.com/thee-smarty/HydroHitch)
