@@ -1,9 +1,8 @@
 # SIH Internal Hackathon 
-The repository is for the prototype for Internal Hackathon for Smart india hackathon in VRSEC. This contains 2 files: Developing file(.aia extension) is used to continue the development of the application,Build file (.apk extension) for building the application in mobile phone.
+**Problem Statement:** A mobile app that crowd sources water-related problems from around a community, open sources data, etc. and display them on a map.
 
-These files are developed in MIT App inventor Website using blocks. (No code) 
+**Description:** The use of social media data in disaster and crisis management is increasing rapidly. Particularly in connection to flooding events, water quality issues in ponds/lakes, urban flooding, and drainage problem, etc., geo-referenced images shared by citizens can provide situational awareness to emergency responders, as well as assist with financial loss assessment, giving information that would otherwise be very hard to collect through conventional sensors or remote sensing products. Discussion about such events can also be found on various social media platforms. Further, recent advances in computer vision and deep learning can perhaps support the automated analysis of these data. In this problem, software/ algorithm to be developed focusing on ground-level images taken by humans. Considering distinct datasets from different sources, the algorithm of the developed mobile app should be able to categorize water-related problems at different administrative. Further, the mobile app should serve as a valuable tool for the administrators for planning and managing water-related problems. 
 
 ## Note  
-This is application is prepared for participate in Smart India Hackathon 2024. This is the prototype for the project.
-
-This project is extended to college acadamic project for EPICS community service project.watch the extended repo [here](https://github.com/thee-smarty/HydroHitch)
+This repository is a prototype for Internal Hackathon of Smart India Hackathon in VRSEC. This Repository contains 2 files: Developing file(.aia extension) is used to continue the development of the application,Build file (.apk extension) for building the application in mobile phone. These files are developed in MIT App Inventor Website using blocks(No code). (Just a Prototype)
+This project is extended to college acadamic project for EPICS community service project with some changes. You can explore it [here](https://github.com/thee-smarty/HydroHitch)
